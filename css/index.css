@@ -1,1 +1,8 @@
-backg
+@import url(components.css);
+@import url(header.css);
+@import url(global.css);
+@import url(features.css);
+@import url(fast-way.css);
+@import url(newsletter.css);
+@import url(partners.css);
+@import url(testimonials.css);
