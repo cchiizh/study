@@ -12,7 +12,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-weight: lighter;
+  font-weight: 100px;
   text-decoration: none;
   border: 1px;
 }
@@ -27,6 +27,7 @@
   align-items: center;
   font-weight: 500;
   text-decoration: none;
+  border: 1px;
 }
 .button__email {
   background-color: #e8e8e8;

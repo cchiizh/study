@@ -20,9 +20,6 @@
   padding: 10px;
   margin-right: 10px;
 }
-/* .header__menu .menu__link :last-child {
-  margin-right: 0;
-} */
 
 .header__menu .menu__link:hover {
   text-decoration: underline;
@@ -36,7 +33,6 @@
 .social-icons {
   width: 180px;
   height: 40px;
-
 }
 .social-logo {
   margin: 0 auto;
