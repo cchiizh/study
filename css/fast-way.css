@@ -1,0 +1,30 @@
+.fast-way {
+  padding: 226px 82px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media screen and (max-width: 800px) {
+  .fast-way {
+    display: flex;
+    flex-direction: column;
+  }
+}
+.fast-way__text {
+  width: 532px;
+}
+.fast-way__title {
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 55px;
+  padding: 10px;
+}
+.fast-way__discription {
+  font-size: 28px;
+  font-weight: 200;
+  padding: 10px;
+  padding-bottom: 60px;
+}
+.button__fast .button__regular {
+  padding: 60px;
+}

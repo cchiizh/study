@@ -1,0 +1,55 @@
+.header {
+  background-image: url(../img/main.photo.png);
+  background-position: center;
+  height: 927px;
+}
+.button__thin {
+  background-color: #2091f9;
+  width: 236px;
+  height: 52px;
+  border-radius: 50px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  text-decoration: none;
+  border: 1px;
+}
+.button__regular {
+  background-color: #2091f9;
+  width: 236px;
+  height: 52px;
+  border-radius: 50px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  text-decoration: none;
+}
+.button__email {
+  background-color: #e8e8e8;
+  width: 273px;
+  height: 54px;
+  top: 36px;
+  border-radius: 39px;
+  border: 1px;
+  padding: 19px 39px 19px 39px;
+  font-weight: lighter;
+}
+
+.button__sub {
+  background-color: #2091f9;
+  display: flex;
+  padding: 19px 38px 19px 38px;
+  width: 172px;
+  height: 54px;
+  font-weight: lighter;
+  border-radius: 50px;
+  border: 1px;
+  color: #fff;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}

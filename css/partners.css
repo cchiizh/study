@@ -1,0 +1,34 @@
+.partners {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+.partners__title {
+  font-size: 48px;
+  line-height: 55px;
+  margin-top: 150px;
+  font-weight: 400;
+}
+.parnters__subtitle {
+  font-size: 28px;
+  font-weight: 200;
+  padding: 10px;
+}
+.partners__list {
+  width: 1075px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.partners__item {
+  width: 250px;
+  list-style: none;
+  padding-bottom: 80px;
+}
+.partners__name {
+  color: #374754;
+  padding: 15px;
+}
