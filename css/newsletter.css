@@ -1,0 +1,39 @@
+
+.newsletter {
+  padding: 226px 82px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.newsletter__text {
+  width: 544px;
+  margin-left: 50px;
+}
+
+.newsletter__finger, .newsletter__subscribe {
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 7px;
+  padding-top: 15px;
+}
+.newsletter__lightning {
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 55px;
+}
+.newsletter__available {
+  color: #374754;
+  padding-bottom: 36px;
+}
+
+.newsletter__buttons {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+}
+.newsletter__email{
+ margin-right: 12px; 
+}
+.newsletter__img {
+  width: 677px;
+}
