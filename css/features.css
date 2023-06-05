@@ -1,3 +1,4 @@
+
 .features {
   display: flex;
   align-items: center;
@@ -53,4 +54,3 @@
 .features-video {
     display: flex;
     justify-content: center;
-}
